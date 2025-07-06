@@ -35,14 +35,11 @@ No build tools or installations needed — it's a pure HTML/CSS/JS project!
 
 ## 📸 Preview
 
-![Dark mode Calculator Preview](![darkmode](https://github.com/user-attachments/assets/7af88829-76a0-4bb7-80ce-7a91e90e81c9)
-)
+### 🔦 Light Theme
+![Light Theme](![darkmode](https://github.com/user-attachments/assets/7af88829-76a0-4bb7-80ce-7a91e90e81c9)
 
-![Light mode Calculator Preview](![lightmode](https://github.com/user-attachments/assets/859ac360-c664-46ee-9b1b-ca358a67187a)
-
-)
-
-
+### 🌙 Dark Theme
+![Dark Theme](![lightmode](https://github.com/user-attachments/assets/859ac360-c664-46ee-9b1b-ca358a67187a)
 
 ## 📌 Future Enhancements
 
